@@ -1,3 +1,7 @@
+~17/11/01 assignment (OSS)
+Add White particles
+More Dynamic effect
+
 
 # Hyperpower
 
